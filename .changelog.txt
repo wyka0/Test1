@@ -6,3 +6,4 @@ style: reformat JSON samples at 2024-01-01T08:57:20
 docs: add usage examples at 2024-01-01T05:12:42
 chore: improve internal naming at 2024-01-01T04:16:11
 refactor: simplify logic flow at 2024-01-01T04:33:59
+test: add sample validation case at 2024-01-01T06:52:22
